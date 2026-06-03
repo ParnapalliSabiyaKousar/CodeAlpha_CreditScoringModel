@@ -1,4 +1,4 @@
-﻿# CodeAlpha_CreditScoringModel
+﻿# CreditScoringModel
 
 ## 📌 Project Overview
 The Credit Scoring Model is a Machine Learning project developed to predict whether a person is eligible for credit approval based on financial and personal details.
@@ -31,7 +31,7 @@ This project uses classification algorithms to analyze customer data and generat
 
 ## 📂 Project Structure
 
-CodeAlpha_CreditScoringModel
+CreditScoringModel
 │── dataset.csv
 │── CreditScoringModel.ipynb
 │── model.pkl
@@ -70,7 +70,7 @@ The model predicts whether a customer is likely to receive credit approval based
 
 🎯 Internship Details
 
-This project was completed as part of the Java/Python/Machine Learning Internship at CodeAlpha.
+This project was completed as part of the Java/Python/Machine Learning Internship.
 
 👩‍💻 Author
 
